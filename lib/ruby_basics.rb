@@ -3,15 +3,15 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  
+  assign_variable = value
 end
 
-def argue
-  
+def argue(s)
+  return s
 end
 
-def greeting
-
+def greeting(sentence, name)
+  
 end
 
 def return_a_value
